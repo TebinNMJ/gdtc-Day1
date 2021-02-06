@@ -1,23 +1,253 @@
-# Github Developer Tech Camp
+<html>
+<head>
+<title>
+BIO-DATA
+</title>
 
-**GitHub developer tech camp** (GDTC) aims to cultivate and inspire future leaders by accommodating a platform to share ideas and create a space for innovation where ideas come to life. GDTC is a platform where the innovators and industry experts meet from diverse fields like Edutech, Healthtech, and Fintech. The event provides a platform for collaboration, discussion, and connecting 50+ colleges & students across India who were a part of the Code Innovation Series to ignite their passion to curb India’s growth story.
+<body>
 
-## CHALLENGES
+			     
 
-The participants can select one of the below mentioned challenges in which they will start working from Day 1 and then submit their work at the end of the Camp by generating a PR to this repository.
+<table border="1" width="600" align="center" bgcolor="yellow">
+<caption align="center">BIO-DATA</caption>
+</table>
 
-The task is that we utilize GitHub features over the course of next 3 days, each indiviual is to come up with a portfolio of their own and then create a PR. At the end of the Camp we will be having our own portfolios live on the internet to be made public.
+<table border="1" width="600" align="center" bgcolor="green">
 
-## DAY 1
+<tr> <font face="verdana" color="red">
 
-### Step 1
-#### Fork this repository
+<td>NAME:</td>
 
-### Step 2
-#### Create a New Folder within the forked repository, with the 'folder name' being your 'Your Name'
+<td><font color="white">Tebin&nbsp;Joseph&nbsp;S</font></td>
 
-Clone the forked repository into your system and initiate with your project from one of the above mentioned categories.
+</font>
 
-# The task for Day 1 is to create a basic portfolio like this in HTML and then generate a PR
+</tr>
 
-![](https://storage.googleapis.com/incind/70847770-1e3f3380-1e8a-11ea-8f68-05fa649f6237.jpegEC5HSnc)
+<tr> <font face="verdana">
+
+<td colspan="2" align="center" height="40" bgcolor="yellow"><font color="green"><b>ADDRESS</b></font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>CITY:</td>
+
+<td><font color="white">Kannur</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>STATE:</td>
+
+<td><font color="white">Kannur</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>PIN-CODE</td>
+
+<td><font color="white">670582</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>email:</td>
+
+<td><font color="white">tebinjoseph2020b@gmail.com</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>PHONE:</td>
+
+<td><font color="white">7510640144</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>MOBILE NO.:</td>
+
+<td><font color="white">9496640144</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>D.O.B:</td>
+
+<td><font color="white">30/11/1997</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>GENDER:</td>
+
+<td><font color="white">Male</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>COLLEGE:</td>
+
+<td><font color="white">AMAL JYOTHI</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>DEPARTMENT:</td>
+
+<td><font color="white">MCA</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td colspan="2" align="center" height="40" bgcolor="yellow"><font color="green"><b>EDUCATIONAL QUALIFICATION</b></font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>10th</td>
+
+<td><font color="white">82</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>12th</td>
+
+<td><font color="white">78</font></td>
+
+</font>
+
+</tr>
+
+<tr>
+
+<font face="verdana">
+
+<td>B.C.A</td>
+
+<td><font color="white">58</font></td>
+
+</font>
+
+</tr>
+
+<tr width="30">
+
+<font face="verdana">
+
+<td>EXTRA ACTIVITY:</td>
+
+<td><font color="white">web surfing,web development</font></td>
+
+</font>
+
+</tr>
+
+<tr width="30">
+
+<font face="verdana">
+
+<td>PROFESSIONAL QUALIFICATION:</td>
+
+<td><font color="white">C,C++,Data Structure,Html,Php</font></td>
+
+</font>
+
+</tr>
+
+<tr width="30">
+
+<font face="verdana">
+
+<td>KNOWN LANGUAGE:</td>
+
+<td><font color="white">English,Hindi,Malayalam,Tamil</font></td>
+
+</font>
+
+</tr>
+
+<tr width="30">
+
+<font face="verdana">
+
+<td>HOBBY:</td>
+
+<td><font color="white">Listening Music,Playing Cricket</font></td>
+
+</font>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
